@@ -1,0 +1,49 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Dados sensíveis (se houver)
+dados/sensiveis/
+*.key
+*.secret
+
+# Logs
+*.log
+logs/
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos temporários do editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de cache
+.cache/
+*.cache
+
+# Arquivos de configuração local
+config.local.*
+.env.local
+
