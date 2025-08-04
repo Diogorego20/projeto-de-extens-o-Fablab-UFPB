@@ -1,0 +1,19 @@
+projeto-extensao-fablab-ufpb/
+├── README.md                                    # Página principal do projeto
+├── LICENSE                                      # Licença MIT
+├── .gitignore                                   # Arquivos a serem ignorados
+├── proposta-melhoria-engajamento-redes-sociais/ # Apresentação principal
+│   └── index.html                               # Apresentação interativa
+├── docs/                                        # Documentação detalhada
+│   ├── analise-comparativa.md                  # Análise dos FabLabs
+│   ├── plano-acao.md                           # Estratégias implementadas
+│   └── cronograma.md                           # Cronograma de 12 meses
+├── dados/                                       # Gráficos e análises
+│   ├── comparativo_fablabs.png                 # Gráfico comparativo
+│   └── engajamento_fablabs.png                 # Gráfico de engajamento
+├── imagens/                                     # Assets visuais por área
+│   ├── artes_visuais.png                       # Imagem para Artes
+│   ├── medicina.png                            # Imagem para Medicina
+│   ├── pedagogia.png                           # Imagem para Pedagogia
+│   └── arquitetura_urbanismo.png               # Imagem para Arquitetura
+└── assets/                                      # Recursos adicionais (vazio)
