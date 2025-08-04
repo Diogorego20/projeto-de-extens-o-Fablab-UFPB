@@ -1,0 +1,29 @@
+📦 fablab-ufpb-analise-precos/
+├── 📄 README.md                          # Este arquivo
+├── 📊 dados/                             # Dados coletados e processados
+│   ├── fablab_precos_oficiais.csv
+│   ├── concorrentes_paraiba.csv
+│   ├── requisicoes_2025.csv
+│   └── benchmarks_nacionais.csv
+├── 📈 graficos/                          # Visualizações geradas
+│   ├── comparacao_mercado_paraiba.png
+│   ├── oportunidades_mercado_paraiba.png
+│   ├── mapa_concorrencia_paraiba.png
+│   └── analise_roi_completa.png
+├── 📋 relatorios/                        # Documentação completa
+│   ├── relatorio_administrativo_final.md
+│   ├── relatorio_metodologico_completo.md
+│   ├── verificacao_dados_fablab.md
+│   └── analise_comparativa_paraiba.md
+├── 🔧 codigo/                            # Scripts de análise
+│   ├── analise_roi_fablab.py
+│   ├── graficos_mercado_paraiba.py
+│   └── gerador_boletos_corrigido.html
+├── 📚 metodologia/                       # Documentação metodológica
+│   ├── fontes_dados_completas.md
+│   ├── verificacao_confiabilidade_graficos.md
+│   └── processo_investigativo_detalhado.md
+└── 🎯 propostas/                         # Soluções e recomendações
+    ├── propostas_melhorias.md
+    ├── cronograma_implementacao.md
+    └── correcao_campo_proposta.md
