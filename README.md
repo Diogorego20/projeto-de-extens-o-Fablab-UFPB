@@ -38,7 +38,7 @@ Para mais informações ou dúvidas sobre o projeto, entre em contato:
 - **Responsável**: Diogo Rego  
 - **GitHub**: Diogorego20  
 - **Instagram**: @diogo.rego26  
-- **Email**: *(adicione seu email aqui, se desejar)*
+- **Email**: *diogo.silva.rego@academico.ufpb.br*
 
 ---
 
